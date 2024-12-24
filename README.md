@@ -1,2 +1,2 @@
 # Movie-Ticket-Booking
-Created a Moive Ticket Booking System using java
+Created a Movie Ticket Booking System using java
